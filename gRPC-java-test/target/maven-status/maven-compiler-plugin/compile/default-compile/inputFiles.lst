@@ -1,8 +1,8 @@
-C:\Users\iuryr\grpc-java-workspace\gRPC-java-test\src\main\java\com\generated\grpc\GreeterGrpc.java
-C:\Users\iuryr\grpc-java-workspace\gRPC-java-test\src\main\java\com\generated\grpc\HelloWorldProto.java
-C:\Users\iuryr\grpc-java-workspace\gRPC-java-test\src\main\java\com\generated\grpc\HelloReply.java
-C:\Users\iuryr\grpc-java-workspace\gRPC-java-test\src\main\java\com\generated\grpc\HelloRequestOrBuilder.java
-C:\Users\iuryr\grpc-java-workspace\gRPC-java-test\src\main\java\com\implemented\grpc\HelloWorldServer.java
-C:\Users\iuryr\grpc-java-workspace\gRPC-java-test\src\main\java\com\generated\grpc\HelloRequest.java
-C:\Users\iuryr\grpc-java-workspace\gRPC-java-test\src\main\java\com\generated\grpc\HelloReplyOrBuilder.java
-C:\Users\iuryr\grpc-java-workspace\gRPC-java-test\src\main\java\com\implemented\grpc\HelloWorldClient.java
+/mnt/c/Users/Kyros/Desktop/java-test/java-grpc-project/gRPC-java-test/src/main/java/com/implemented/grpc/HelloWorldClient.java
+/mnt/c/Users/Kyros/Desktop/java-test/java-grpc-project/gRPC-java-test/src/main/java/com/generated/grpc/HelloWorldProto.java
+/mnt/c/Users/Kyros/Desktop/java-test/java-grpc-project/gRPC-java-test/src/main/java/com/generated/grpc/GreeterGrpc.java
+/mnt/c/Users/Kyros/Desktop/java-test/java-grpc-project/gRPC-java-test/src/main/java/com/implemented/grpc/HelloWorldServer.java
+/mnt/c/Users/Kyros/Desktop/java-test/java-grpc-project/gRPC-java-test/src/main/java/com/generated/grpc/HelloRequest.java
+/mnt/c/Users/Kyros/Desktop/java-test/java-grpc-project/gRPC-java-test/src/main/java/com/generated/grpc/HelloReply.java
+/mnt/c/Users/Kyros/Desktop/java-test/java-grpc-project/gRPC-java-test/src/main/java/com/generated/grpc/HelloRequestOrBuilder.java
+/mnt/c/Users/Kyros/Desktop/java-test/java-grpc-project/gRPC-java-test/src/main/java/com/generated/grpc/HelloReplyOrBuilder.java
